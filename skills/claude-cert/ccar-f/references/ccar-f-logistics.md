@@ -4,6 +4,7 @@
 
 - Certification is open to organizations in the **Claude Partner Network** and counts toward partner program standing. Individuals without a qualifying org can request access via the Skilljar portal and start all free prep courses immediately. Broader public access expected later 2026 (no confirmed timeline).
 - **Access, not exam difficulty, is the bottleneck** - join the Claude Partner Network (free) before planning a sit date.
+- Portal is at `anthropic-partners.skilljar.com` (moved from `anthropic.skilljar.com`, old URL redirects). The CCAR-F page is a register-and-pay page, not an access-request page: fee US$125 USD, no launch fee-waiver currently listed (launch has passed). The 3 official PDFs (Exam Guide, Certification T&Cs, Anthropic Certification Exam Policy) are linked directly on that page.
 
 ## Exam-day mechanics
 
