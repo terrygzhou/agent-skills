@@ -12,14 +12,18 @@ tooling. Modelled on [mattpocock/skills](https://github.com/mattpocock/skills):
 
 ## Buckets
 
-- `skills/claude-cert/` - certification preparation skills (Claude certs and, as the program
-  matures, other cert tracks)
+- `skills/claude-cert/` - certification preparation skills: one skill per Anthropic Claude
+  certification track (CCAO-F, CCDV-F, CCAR-F, CCAR-P) plus shared family references. As
+  the program matures, other cert tracks join the same layout.
 
 ## Skills
 
 | Skill | What it does |
 |---|---|
-| [claude-ccar-f](skills/claude-cert/ccar-f/SKILL.md) | Study companion for the CCAR-F exam: domains, anti-patterns, logistics, cert-family routing |
+| [claude-ccao-f](skills/claude-cert/ccao-f/SKILL.md) | CCAO-F (Associate - Foundations): get work done with Claude well - structured prompting, judging output, model/product selection, Projects config, responsible use - and prepare for the no-code cert |
+| [claude-ccdv-f](skills/claude-cert/ccdv-f/SKILL.md) | CCDV-F (Developer - Foundations): build and ship production-grade Claude apps, agents, and workflows - API mechanics, tools/MCP, cost, evals, security - and prepare for the builder cert |
+| [claude-ccar-f](skills/claude-cert/ccar-f/SKILL.md) | CCAR-F (Architect - Foundations): design Claude systems end to end - agentic architecture, tool/MCP, Claude Code, prompt engineering, context and reliability - and prepare for the only scenario-based cert |
+| [claude-ccar-p](skills/claude-cert/ccar-p/SKILL.md) | CCAR-P (Architect - Professional): own a production Claude system - enterprise integration, evaluation, governance/safety/risk, stakeholder communication, lifecycle, team enablement - and prepare for the senior cert |
 
 ## Conventions
 

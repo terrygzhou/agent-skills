@@ -5,7 +5,7 @@
 - **Format**: 60 items, scenario-based (4 scenarios drawn from a bank of 6). The only scenario exam in the program.
 - **Domains**: 5 (weights below)
 - **Duration**: 120 min, proctored (OnVUE online or Pearson test centre)
-- **Fee**: US$125 (before partner-tier discount; first 5,000 partner-employee seats fee-waived at launch)
+- **Fee**: US$125 (before partner-tier discount; the launch fee-waiver has passed, the fee is standard)
 - **Pass**: scaled 720/1000 (not 72%)
 - **Validity**: 12 months; on-time renewal = free non-proctored assessment; lapse = full resit
 - **Prerequisites**: none. Recommended experience (6+ months with Claude API, Agent SDK, Claude Code, MCP) is not a requirement.
@@ -19,6 +19,8 @@
 | CCDV-F | Developer - Foundations | engineers building Claude apps | 53 | 8 | standalone |
 | CCAR-F | Architect - Foundations | solution architects | 60 | 5 | scenario |
 | CCAR-P | Architect - Professional | senior architects, enterprise delivery | 63 | 7 | standalone |
+
+Fees (USD, before partner-tier discount, re-verified 2026-10-13): CCAO-F $99, CCDV-F $125, CCAR-F $125, CCAR-P $175. CCAO-F is the only cert that does **not** count toward the Claude Partner Network tier; the other three do.
 
 Shared mechanics (all four): 120 min, MC + multiple-response, pass 720/1000, 12-month validity.
 

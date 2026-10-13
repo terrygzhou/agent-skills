@@ -16,7 +16,7 @@ Read [references/ccar-f-facts.md](references/ccar-f-facts.md) for the quick-fact
 - Lead with the **decision and its trade-off**, not trivia. Scenario-format questions reward a defensible design call; the distractors are mistakes real engineers make.
 - Cite the domain weight when prioritising: Domains 1+5 = 42% (agentic architecture + context/reliability) is the study backbone; Domains 3+4 = 40%; Domain 2 = 18%.
 - When a user says "which cert should I take", route by role, not difficulty: no-code productivity users -> CCAO-F; engineers shipping Claude apps -> CCDV-F; architects owning system design -> CCAR-F; senior architects with governance/safety/risk ownership -> CCAR-P.
-- Never claim exam questions or content verbatim; use the study notes and anti-patterns as the study spine. Facts are time-sensitive (exam guide v1.0, effective July 2026); re-verify dates, fees, and access paths against the primary sources in [sources/ccar-f/README.md](../../sources/ccar-f/README.md) before advising.
+- Never claim exam questions or content verbatim; use the study notes and anti-patterns as the study spine. Facts are time-sensitive (exam guide v1.0, effective July 2026); re-verify dates, fees, and access paths against the primary sources in [sources/ccar-f/README.md](../../../sources/ccar-f/README.md) before advising.
 
 ## What "good" looks like
 

@@ -2,9 +2,11 @@
 
 ## Access path
 
-- Certification is open to organizations in the **Claude Partner Network** and counts toward partner program standing. Individuals without a qualifying org can request access via the Skilljar portal and start all free prep courses immediately. Broader public access expected later 2026 (no confirmed timeline).
+- Certification is open only to people at **Claude Partner Network** organisations (register with a partner email on a recognized company domain; unknown domains need a partner-support@anthropic.com request, 7-10 days to take effect); the three architect/developer certs count toward the partner tier, CCAO-F does not. Individuals without a qualifying org can start all free prep courses on the Skilljar portal immediately. Broader public access was expected later 2026 (no confirmed timeline).
 - **Access, not exam difficulty, is the bottleneck** - join the Claude Partner Network (free) before planning a sit date.
-- Portal is at `anthropic-partners.skilljar.com` (moved from `anthropic.skilljar.com`, old URL redirects). The CCAR-F page is a register-and-pay page, not an access-request page: fee US$125 USD, no launch fee-waiver currently listed (launch has passed). The 3 official PDFs (Exam Guide, Certification T&Cs, Anthropic Certification Exam Policy) are linked directly on that page.
+- Portal is at `anthropic-partners.skilljar.com` (moved from `anthropic.skilljar.com`, old URL redirects). The CCAR-F page is a register-and-pay page, not an access-request page: fee US$125, the launch fee-waiver has passed and no longer appears anywhere on the portal. The 3 official PDFs (Exam Guide, Certification T&Cs, Anthropic Certification Exam Policy) are linked directly on that page.
+- Registration is valid 5 years from purchase; schedule the sitting within that window (no deadline).
+- All four exams share the exam-day rules: name must match government ID exactly (mismatch = no entry + fee forfeited), free reschedule/cancel at least 48h out (inside 48h or no-show forfeits the fee), retake cadence 14/30/90 days with a max 4 attempts per rolling 12 months, and on-time recertification is a free non-proctored assessment while a lapse means a full resit at full fee.
 
 ## Exam-day mechanics
 
